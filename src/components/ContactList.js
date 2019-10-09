@@ -16,6 +16,16 @@ const contacts = [
         name:'Charlotte Ryan',
         image:'https://randomuser.me/api/portraits/women/69.jpg',
         online:true
+    },
+    {
+        name:'Steven Morrison',
+        image:'https://randomuser.me/api/portraits/men/36.jpg',
+        online:false
+    },
+    {
+        name:'Randall Robinson',
+        image:'https://randomuser.me/api/portraits/men/93.jpg',
+        online:true
     }
 ];
 const ContactList = () => (
